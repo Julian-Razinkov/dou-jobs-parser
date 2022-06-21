@@ -26,6 +26,14 @@ export class Sheet {
         return rows;
     }
     public async writeRows(data:any){
+
+        //Clearig the old data before writing the new one
+        await (await this.getSpreadsheets()).spreadsheets.values.clear({
+            auth: await this.getClient(),
+            spreadsheetId: this.id,
+            range: 'Лист1!A2:C30',
+        })
+
         await (await this.getSpreadsheets()).spreadsheets.values.append({
             auth: await this.getClient(),
             spreadsheetId: this.id,

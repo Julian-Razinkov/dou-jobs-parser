@@ -15,12 +15,19 @@ export class Parser{
         const $ = load(data);
     
         $('.title').each((i, el) => {
-            const job:IJob = {
-                name: $(el).find('.vt').text(),
-                link: $(el).find('.vt').attr('href'),
-                company: $(el).find('strong').children('a').text(),
-            } 
-            this.jobs.push(job);
+                let name = $(el).find('.vt').text();
+                let link = $(el).find('.vt').attr('href');
+                let company =  $(el).find('strong').children('a').text();
+
+                if(link == undefined) link = '';
+
+                const job:IJob = {
+                    name,
+                    link,
+                    company
+                }
+
+                this._jobs.push(job);
         });
     }
     public async saveToSpreatsheet(){
