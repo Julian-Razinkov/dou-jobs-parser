@@ -1,0 +1,88 @@
+Job name: Junior Back-end developer 
+Company name:  42flows.tech
+Link: https://jobs.dou.ua/companies/42flows-tech/vacancies/211366/
+ 
+Job name: Junior Back-end Developer 
+Company name:  Erbis
+Link: https://jobs.dou.ua/companies/erbis/vacancies/208174/
+ 
+Job name: Junior Back-End Engineer (Education platform) 
+Company name:  Genesis
+Link: https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/204654/
+ 
+Job name: Junior Full Stack Software Engineer (Angular+ NodeJS/Express) 
+Company name:  Voicespin
+Link: https://jobs.dou.ua/companies/voicespin/vacancies/210629/
+ 
+Job name: Strong Junior Back-end (Node.js) developer 
+Company name:  SpdLoad
+Link: https://jobs.dou.ua/companies/spdload/vacancies/209852/
+ 
+Job name: Junior/Middle JavaScript developer (React/Node) 
+Company name:  PixelTeh
+Link: https://jobs.dou.ua/companies/pixelteh/vacancies/153747/
+ 
+Job name: Junior Node/Nest.js Developer 
+Company name:  ArchiDevs
+Link: https://jobs.dou.ua/companies/archidevs/vacancies/207618/
+ 
+Job name: Junior technical support specialist / Trainee / Junior Node.js developer 
+Company name: Walkout Technologies
+Link: https://jobs.dou.ua/companies/walkout-technologies/vacancies/209320/
+ 
+Job name: Strong Junior JavaScript Full-Stack Developer 
+Company name:  Belkins
+Link: https://jobs.dou.ua/companies/belkins/vacancies/203939/
+ 
+Job name: Junior Full-Stack JavaScript developer 
+Company name:  Voypost
+Link: https://jobs.dou.ua/companies/voypost/vacancies/205548/
+ 
+Job name:  
+Company name: 
+Link: 
+ 
+Job name: Junior Back-end Developer 
+Company name:  Erbis
+Link: https://jobs.dou.ua/companies/erbis/vacancies/208174/
+ 
+Job name: Junior Back-end developer 
+Company name:  42flows.tech
+Link: https://jobs.dou.ua/companies/42flows-tech/vacancies/211366/
+ 
+Job name: Junior Back-End Engineer (Education platform) 
+Company name:  Genesis
+Link: https://jobs.dou.ua/companies/genesis-technology-partners/vacancies/204654/
+ 
+Job name: Junior Node/Nest.js Developer 
+Company name:  ArchiDevs
+Link: https://jobs.dou.ua/companies/archidevs/vacancies/207618/
+ 
+Job name: Strong Junior Back-end (Node.js) developer 
+Company name:  SpdLoad
+Link: https://jobs.dou.ua/companies/spdload/vacancies/209852/
+ 
+Job name: Junior Full Stack Software Engineer (Angular+ NodeJS/Express) 
+Company name:  Voicespin
+Link: https://jobs.dou.ua/companies/voicespin/vacancies/210629/
+ 
+Job name: Junior/Middle JavaScript developer (React/Node) 
+Company name:  PixelTeh
+Link: https://jobs.dou.ua/companies/pixelteh/vacancies/153747/
+ 
+Job name: Junior technical support specialist / Trainee / Junior Node.js developer 
+Company name: Walkout Technologies
+Link: https://jobs.dou.ua/companies/walkout-technologies/vacancies/209320/
+ 
+Job name: Strong Junior JavaScript Full-Stack Developer 
+Company name:  Belkins
+Link: https://jobs.dou.ua/companies/belkins/vacancies/203939/
+ 
+Job name: Junior Full-Stack JavaScript developer 
+Company name:  Voypost
+Link: https://jobs.dou.ua/companies/voypost/vacancies/205548/
+ 
+Job name:  
+Company name: 
+Link: 
+ 

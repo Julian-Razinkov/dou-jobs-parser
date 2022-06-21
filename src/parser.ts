@@ -2,6 +2,8 @@ import { IJob } from "./job";
 import {load} from 'cheerio';
 import axios from "axios";
 import { Sheet } from "./sheet";
+import { appendFile, writeFile } from "fs/promises";
+
 
 
 export class Parser{
@@ -24,7 +26,7 @@ export class Parser{
                 const job:IJob = {
                     name,
                     link,
-                    company
+                    company,
                 }
 
                 this._jobs.push(job);
@@ -39,6 +41,13 @@ export class Parser{
         })
         
         await this.sheet.writeRows(spreadSheetData)
+    }
+    public async saveToFile(){
+        await writeFile('output.txt', '');
+        await this.parseJobsData();
+        this._jobs.forEach(el => {
+            appendFile('output.txt', `Job name: ${el.name} \nCompany name: ${el.company}\nLink: ${el.link}\n \n`)
+        })
     }
 
     public get jobs(){
